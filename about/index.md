@@ -11,9 +11,8 @@ comments: true
 ## My projects.
 * <a href="http://www.softpedia.com/get/Internet/Download-Managers/SerenApps-Download-Manager.shtml"><b>SerenApps Download Manager.</b></a>
 * Antivirus made in VB (link soon)(find it on a1vbcode.com)
-* Disqus integration
-* Lensinator for Windows Phone 8.1
-* Trackinator for Windows Phone 8.1
+* Lensinator for Windows Phone 8.1 (Unpublished from store, source will be available soon on my GitHub)
+* Trackinator for Windows Phone 8.1 (Unpublished from store, source will be available soon on my GitHub)
 * More coming soon. 
 
 #Background and Experience
