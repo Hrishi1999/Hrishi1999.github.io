@@ -2,7 +2,7 @@
 layout: post
 title: "Hello"
 date: 2017-01-22
-excerpt: "A ton of text to test readability."
+excerpt: "First Post."
 tags: [first post, about me, hello]
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
