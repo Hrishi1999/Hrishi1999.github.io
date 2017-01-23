@@ -4,7 +4,7 @@ bio:                'Hello, my name is Hrishi Patel. I am 17 years old, about to
 description:        "HO!"
 reading_time:       true
 words_per_minute:   200
-logo:               'https://hrishi1999.github.io/assets/img/logo2.jpg'
+logo:               'https://hrishi1999.github.io/assets/img/logo2.png'
 background:         'https://hrishi1999.github.io/assets/img/new.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
