@@ -19,4 +19,4 @@ See the internation morse code chart here :
 
 Here is the source code :
 
-<a href="github.com/hrishi1999/morse-code-converter">Link</a>
+<a href="https://www.github.com/hrishi1999/morse-code-converter">Link</a>
