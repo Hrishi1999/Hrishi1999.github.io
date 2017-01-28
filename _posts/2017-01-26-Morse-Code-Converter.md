@@ -3,7 +3,7 @@ layout: post
 title: "Morse Code Converter made in C#"
 date: 2017-01-26
 excerpt: "Here is another blog post about my another side project."
-tags: [sample post, readability, test, image, feature]
+tags: [project, new]
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
